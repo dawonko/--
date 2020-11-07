@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DAWON'S WORK"
+title                    : "WELCOME TO DAWON'S WORK!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DAWON KO"
@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          :
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  google: 
+    tracking_id          : G-2GP5LKVRQX
     anonymize_ip         : # true, false (default)
 
 
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Dawon Ko"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a recent graduate with the experience in marketing related industries - campaign, research, acqusition, business model. I like understanding people by how they think & how they react"
+  bio              : "Experience in marketing - campaign, research, acqusition, BM. I like understanding people by how they think & how they react"
   location         : "London Based"
   email            : "dawonkouk@gmail.com"
   links:
